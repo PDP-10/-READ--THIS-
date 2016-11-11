@@ -11,3 +11,7 @@ from "Private" to "Public" here: https://github.com/orgs/PDP-10/people
 This repository can also serve as a message board.  [Open an
 issue](https://github.com/PDP-10/-READ--THIS-/issues/new) to start a
 new discussion.
+
+There is a [wiki](https://github.com/PDP-10/-READ--THIS-/wiki) with a
+page listing [PDP-10-related repositories at GitHub]
+(https://github.com/PDP-10/-READ--THIS-/wiki/Repositories).

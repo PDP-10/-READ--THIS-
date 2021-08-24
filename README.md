@@ -12,7 +12,7 @@ This repository can also serve as a message board.  [Open an
 issue](https://github.com/PDP-10/-READ--THIS-/issues/new) to start a
 new discussion.
 
-We have an IRC channel #pdp-10 on freenode.org that is quite active.
+We have an IRC channel #pdp-10 on libera.chat that is quite active.
 
 There is a [wiki](https://github.com/PDP-10/-READ--THIS-/wiki) with a
 page listing
